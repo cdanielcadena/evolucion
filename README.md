@@ -6,7 +6,7 @@
     Horario: martes, miércoles y jueves, 9:30-10:20 am
     Aula Virtual en SicuaPlus
        
-# La Teoría Evolutiva Aplicada a Comprender una Pandemia: el caso de COVID-19
+# La Teoría Evolutiva Aplicada a Comprender una Pandemia: el Caso de COVID-19
 
 ![](nextstrain.png)
 
