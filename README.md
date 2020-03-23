@@ -7,7 +7,7 @@
        
 ## Primer Módulo: La Teoría Evolutiva Aplicada a Comprender una Pandemia: el caso de COVID-19
 
-![](nexstrain.png)
+![](nextstrain.png)
 
 Distribución geográfica y filogenia de basada en genomas del corononavirus SARS-CoV-2, causante de la pandemia de COVID-19. Imagen tomada el 23 de marzo de 2020 del proyecto [Nexstrain](https://nextstrain.org/).
     
