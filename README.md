@@ -27,5 +27,5 @@ Distribución geográfica y filogenia de basada en genomas del corononavirus SAR
 
 ### Martes 24 de marzo
 
-Como todos sabemos, nos enfrentamos a una pandemia
+Vivimos una coyuntura única en la historia reciente de la humanidad. Esta coyuntura trate enormes desafíos para nuestra sociedad, pero al mismo tiempo representa una oportunidad de aplicar nuestros conocimientos y adquirir conocimentos nuevos en un contexto de enorme importancia científica y social. Vamos a aprovechar esa oportunidad para estudiar la aplicación de herramientas que ya hemos trabajado en el curso (i.e. árboles filogenéticos) y para aprender sobre el papel que conceptos fundamentales en evolución juegan en el origen y propagación de un agente infeccioso. Dichos conceptos incluyen selección natural, adaptación, evolución molecular, especiación y coevolución, entre otros.
 
