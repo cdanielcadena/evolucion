@@ -1,6 +1,7 @@
 # Evolución UniAndes 2020-10
     
-    Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co) 
+    Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)
+    Asistente Graduada: María Alejandra Meneses (ma.meneses10@uniandes.edu.co)
     Materiales para curso virtual de Evolución, Universidad de los Andes
     Horario: martes, miércoles y jueves, 9:30-10:20 am
     Aula Virtual en SicuaPlus
