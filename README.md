@@ -32,4 +32,4 @@ Vivimos una coyuntura única en la historia reciente de la humanidad. Esta coyun
 
 ### Miércoles 25 de marzo
 
-La primera media hora de la clase la vamos a dedicar a ver un [vídeo](https://youtu.be/Ok2iZ9-cUlk) de una conferencia dictada por [Trevor Bedford](https://twitter.com/trvrb), uno de los cerebros detrás de Nextstrain. Vea la conferencia, titulada ""Real-time Tracking of Virus Evolution" por su cuenta y nos encontraremos en el aula virtual a las 10 am.
+La primera media hora de la clase la vamos a dedicar a ver un [vídeo](https://youtu.be/Ok2iZ9-cUlk) de una conferencia dictada por [Trevor Bedford](https://twitter.com/trvrb), uno de los cerebros detrás de Nextstrain. Vea por su cuenta la conferencia titulada ""Real-time Tracking of Virus Evolution" por su cuenta y nos encontraremos en el aula virtual a las 10 am.
