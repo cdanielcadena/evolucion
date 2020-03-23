@@ -29,3 +29,6 @@ Distribución geográfica y filogenia de basada en genomas del corononavirus SAR
 
 Vivimos una coyuntura única en la historia reciente de la humanidad. Esta coyuntura supone enormes desafíos para nuestra sociedad, pero al mismo tiempo representa una oportunidad de aplicar nuestros conocimientos y adquirir conocimentos nuevos en un contexto de gran importancia científica y social. Vamos a aprovechar esa oportunidad para estudiar la aplicación de herramientas que ya hemos trabajado en el curso (i.e. árboles filogenéticos) y para aprender sobre el papel que conceptos fundamentales en evolución juegan en el origen y propagación de un agente infeccioso. Dichos conceptos incluyen selección natural, adaptación, evolución molecular, especiación y coevolución, entre otros. Comenzaremos la fase virtual de nuestro curso con una clase dictada por el profesor a través del aula virtual de SicuaPlus acerca de aplicaciones del análisis filogenético para estudios de evolución de virus y otros patógenos que afectan la vida silvestre y a los humanos.
 
+### Martes 25 de marzo
+
+La primera media hora de hoy la vamos a dedicar a ver un [vídeo](https://youtu.be/Ok2iZ9-cUlk) de una conferencia dictada por [Trevor Bedford] (https://twitter.com/trvrb), uno de los cerebros detrás de Nextstrain. Vea la conferencia por su cuenta y nos encontraremos en el aula virtual a las 10 am.
