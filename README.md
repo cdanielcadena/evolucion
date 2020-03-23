@@ -20,7 +20,7 @@ Distribución geográfica y filogenia de basada en genomas del corononavirus SAR
 
 ## Competencias a desarrollar
 
--	Habilidad para hacer inferencias biogeográficas a partir de árboles filogenéticos.
+-	Habilidad para hacer inferencias biogeográficas y evolutivas a partir de árboles filogenéticos.
 
 -	Destreza en la aplicación correcta de conceptos evolutivos para el estudio de un problema de salud pública.
 
