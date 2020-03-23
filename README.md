@@ -22,7 +22,7 @@ Distribución geográfica y filogenia de basada en genomas del corononavirus SAR
 
 -	Habilidad para hacer inferencias biogeográficas a partir de árboles filogenéticos.
 
--	Capacidad de divulgar información científica para un público amplio mediante una infografía.
+-	Capacidad de divulgar información científica para un público amplio mediante herramientas audiovisuales.
 
 ## Instrucciones para los estudiantes
 
