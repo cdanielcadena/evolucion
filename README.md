@@ -5,7 +5,7 @@
     Horario: martes, miércoles y jueves, 9:30-10:20 am
     Aula Virtual en SicuaPlus
        
-## Primer Módulo: La Teoría Evolutiva Aplicada a Comprender una Pandemia: el caso de COVID-19
+# Primer Módulo: La Teoría Evolutiva Aplicada a Comprender una Pandemia: el caso de COVID-19
 
 ![](nextstrain.png)
 
@@ -25,7 +25,7 @@ Distribución geográfica y filogenia de basada en genomas del corononavirus SAR
 
 ## Instrucciones para los estudiantes
 
-# Martes 24 de marzo
+### Martes 24 de marzo
 
 Como todos sabemos, nos enfrentamos a una pandemia
 
