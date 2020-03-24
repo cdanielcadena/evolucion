@@ -1,10 +1,10 @@
-![](andes.png)
 # Evolución 
     
     Curso Virtual, Universidad de los Andes 2020-10
     Profesor: C. Daniel Cadena (ccadena@uniandes.edu.co)
     Asistente Graduada: María Alejandra Meneses (ma.meneses10@uniandes.edu.co)    
     Horario: martes, miércoles y jueves, 9:30-10:20 am en SicuaPlus
+![](andes.png)
        
 # La Teoría Evolutiva Aplicada a Comprender una Pandemia: el Caso de COVID-19
 
