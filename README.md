@@ -33,7 +33,7 @@ Vivimos una coyuntura única en la historia reciente de la humanidad. Esta coyun
 
 Los estudiantes de UniAndes inscritos en este curso ya han tomado ocho semanas de un curso básico de evolución y el material que desarrollaremos de ahora en adelante construye sobre esa base e introduce conceptos que estaban programados para fases más avanzadas del curso. Si bien personas externas no tuvieron acceso a las ocho semanas previas y no podrán participar de las clases virtuales pues éstas de impartirán a través de la plataforma cerrada de la universidad, he decidido dar libre acceso a todo el material para que a quien le interese la información pueda conocerla. Para facilidad de compartirlas, las presentaciones de las clases en este sitio estarán disponibles en un formato de baja resolución que espero sea suficiente para poder comprenderlas.
 
-Comenzaremos la fase virtual de nuestro curso con una clase a través de la herramienta de **clase remota** de SicuaPlus acerca de aplicaciones del análisis filogenético para estudios de evolución de virus y otros patógenos que afectan la vida silvestre y a los humanos.
+Comenzaremos la fase virtual de nuestro curso con una clase a través de la herramienta de **clase remota** de SicuaPlus acerca de aplicaciones del análisis filogenético para estudios de evolución de virus y otros patógenos que afectan la vida silvestre y a los humanos. La presentación de hoy está disponible [acá](https://github.com/cdanielcadena/evolucion/blob/master/clase1_git.pdf).
 
 ### Miércoles 25 de marzo
 
