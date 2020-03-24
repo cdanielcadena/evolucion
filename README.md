@@ -33,9 +33,9 @@ Los estudiantes de UniAndes inscritos en este curso ya han tomado ocho semanas d
 
 ### Martes 24 de marzo
 
-Vivimos una coyuntura única en la historia reciente de la humanidad. Esta coyuntura supone enormes desafíos para nuestra sociedad, pero al mismo tiempo representa una oportunidad de aplicar nuestros conocimientos y adquirir conocimentos nuevos en un contexto de gran importancia científica y social. Vamos a aprovechar esa oportunidad para estudiar la aplicación de herramientas que ya hemos trabajado en el curso (i.e. árboles filogenéticos) y para aprender sobre el papel que conceptos fundamentales en evolución juegan en el origen y propagación de un agente infeccioso. Dichos conceptos incluyen selección natural, adaptación, evolución molecular, especiación y coevolución, entre otros.
+Vivimos una coyuntura única en la historia reciente de la humanidad. Esta coyuntura supone enormes desafíos para nuestra sociedad, pero al mismo tiempo representa una oportunidad de aplicar nuestros conocimientos y adquirir conocimentos nuevos en un contexto de gran importancia científica y social. Vamos a aprovechar esa oportunidad para estudiar la aplicación de herramientas que ya hemos trabajado en el curso (i.e. árboles filogenéticos) y para aprender sobre el papel que conceptos fundamentales en evolución juegan en el origen y propagación de agentes infecciosos. Dichos conceptos incluyen selección natural, adaptación, evolución molecular, especiación y coevolución, entre otros.
 
-Comenzaremos la fase virtual de nuestro curso con una clase a través de la herramienta de **clase remota** de SicuaPlus acerca de aplicaciones del análisis filogenético para estudios de evolución de virus y otros patógenos que afectan la vida silvestre y a los humanos. La presentación de hoy está disponible [acá](https://github.com/cdanielcadena/evolucion/blob/master/clase1_git.pdf).
+Comenzaremos la fase virtual de nuestro curso con una charla a través de la herramienta de **clase remota** de SicuaPlus acerca de aplicaciones del análisis filogenético para estudios de evolución de virus y otros patógenos que afectan la vida silvestre y a los humanos. La presentación de hoy está disponible [acá](https://github.com/cdanielcadena/evolucion/blob/master/clase1_git.pdf).
 
 ### Miércoles 25 de marzo
 
