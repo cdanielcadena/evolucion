@@ -42,11 +42,11 @@ Como lectura complementaria introductoria, pueden revisar apartes el capítulo *
 
 ### Miércoles 25 de marzo
 
-**Instrucciones**. 
+**Instrucciones** 
 
 La primera media hora de la clase la vamos a dedicar a ver un vídeo de una conferencia dictada por [Trevor Bedford](https://twitter.com/trvrb), uno de los cerebros detrás de [Nexstrain](https://nextstrain.org/), un proyecto de acceso libre que busca explotar el potencial científico y de salud pública de datos genómicos de patógenos. Vea por su cuenta la conferencia titulada ["Real-time Tracking of Virus Evolution"](https://youtu.be/Ok2iZ9-cUlk) y nos encontraremos en la ventana de **clase remota** a las 10 am. Anote cualquier pregunta que le surja para discturir en el espacio de reunión virtual que tendremos.
 
-**Desarrollo**. 
+**Desarrollo** 
 
 Luego de que los estudiantes vieron la conferencia, hicimos un pequeño sondeo. Una pregunta apuntaba a examinar si habían prestado atención, y a conectar con un mensaje que quería dejarles hoy y que describo más adelante. Otra pregunta buscaba mostrarles que la terminología que se usa en sistemática filogenética es aplicable al caso del estudio de epidemias. Si bien varios no contestaron correctamente esta última, en la discusión demostramos la correcta utilización de los conceptos de monofilia y parafilia con base en ejemplos de filogenias de los virus de Zika y Ebola. 
 
