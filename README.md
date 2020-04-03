@@ -86,3 +86,38 @@ Inicialmente, los estudiantes tuvieron 20 minutos para dar una mirada rápida al
 2. Para el caso de influenza H5N1, ¿qué tipo de evidencia apoya la hipótesis de que el virus habría evolucionado mediante selección natural adaptándose a los humanos después de su cambio de hospedero? 
 
 En los minutos finales de la clase, los estudiantes contestaron un quiz con preguntas de selección múltiple basado en las preguntas que recibieron.
+
+### Taller Semana 2 - Estudio de enfermedades infecciosas usando conceptos filogenéticos
+
+En el espacio de laboratorio de esta semana, los estudiantes desarrollaron el siguiente taller preparado por María Alejandra Meneses usando en parte material contribuido por el Dr. Santiago Ramírez.
+
+**Instrucciones**
+
+Para comenzar, los estudiantes deben leer deben leer el [artículo](https://science.sciencemag.org/content/345/6202/1369.full) de Gire et al. (2014) sobre Ébola. Luego deben contestar las siguientes preguntas y entregar sus respuestas al final de la sesión.
+
+1. Teniendo en cuenta la filogenia de la Figura 2 responda las siguientes preguntas explicando brevemente sus respuestas.
+
+a. ¿Las muestras de Gabón forman un grupo monofilético en la Figura 2C? 
+
+b. ¿Cuáles muestras, si las hay, comparten un ancestro común más cercano con DRC (2007-2008) en la figura 2C?
+
+c. Los autores muestran en la Figura 2 una filogenia no enraizada y una enraizada ¿qué información nos da cada una? 
+
+2. La Figura 3A muestra evidencia de que el brote del 2014 fue independiente al del 2007-2008. Usando el programa R, construya  una filogenia en formato Newick que apoye el escenario alternativo en el que el brote de 2014 habría involucrado  transmisión desde un humano infectado en el brote de 2007-2008. Puede hacer la filogenia usando dos muestras de cada una de estos países: Guinea (G), Sierra Leona (SL), República Democrática del Congo (RDC). 
+
+3. El virus del Ébola es sólo uno de los ejemplos de una enfermedad infecciosa que se puede estudiar usando conceptos filogenéticos. En las clases pasadas hemos hablado sobre [Nexststrain](https://nextstrain.org). Visite la página y explore un poco las herramientas disponibles. 
+
+3.1. Siga el enlace a la pagina sobre el coronavirus y escoja la representación por [clados](https://nextstrain.org/ncov?c=clade_membership) ¿Cuál de las siguientes afirmaciones se puede inferir de la filogenia?
+
+a.	Las muestras de Norte América forman un grupo monofilético.
+b.	El brote comenzó en Wuhan seguido por una transmisión humano-humano que ha mantenido la enfermedad.
+c.	El virus no parece haber circulado en poblacones humanas antes del primer reporte de enfermedad.
+d.	El virus llegó a Europa a finales de febrero de 2020. 
+
+3.2. En el menú a la izquierda en la opción “Branch Length”, cambie de “Time” a “Divergence”. ¿Se modifica la topología del árbol?
+
+3.3. Ahora compare todos los clados reportados. Esto lo puede hacer en el menú de la izquierda en la primera opción “Dataset” cambiando de “Admin Division” a “clade”. De acuerdo con a filogenia, ¿de cuándo data el ancestro común más reciente entre A6 y A1a? 
+
+4. Finalmente, lea el [artículo](https://www.cell.com/current-biology/pdfExtended/S0960-9822(20)30360-2) de Zhang et al. (2020) y responda: 
+
+¿Qué evidencia encuentran los autores para proponer al pangolín como un reservorio natural probablemente involucrado en el brote del SARS-CoV?
