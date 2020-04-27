@@ -126,10 +126,10 @@ d.	El virus llegó a Europa a finales de febrero de 2020.
 
 Para concluir el tema de evolución molecular, les pedimos a los estudiantes inscritos en el curso de laboratorio que dicta María Alejandra Meneses que desarrollaran piezas divulgativa sobre el origen, epidemiología y evolución de enfermedades infecciosas. La idea del ejercicio era que los estudiantes desarrollaran una infografía en la que comunicaran mensajes para a un público general sobre alguna enfermedad infecciosa con base en teoría evolutiva e información recopilada de la literatura científica. Los resultados del ejercicio hablan por sí solos;  pueden ser consultados, descargados y compartidos en este [enlace](https://padlet.com/mameneses10/evolmol). 
 
-### Semana Abril 13-15
+### Semana Abril 14-16
 
-Retomamos el programa del curso del que nos habíamos desviado momentáneamente para regresar sobre aspectos que nos habían quedado pendientes en cuanto a selección natural y a la estimación de los diferentes componentes de *fitness*. Habiento completado estos temas cerramos la parte del curso dedicadas a las fuerzas microevolutivas y podemos movernos hacia adaptación como el puente en microevolución y macroevolución. [Presentación](https://github.com/cdanielcadena/evolucion/blob/master/abril14-16_git.pdf)
+Retomamos el programa del curso del que nos habíamos desviado momentáneamente para regresar sobre aspectos que nos habían quedado pendientes en cuanto a selección natural y a la estimación de los diferentes componentes de *fitness*. Habiendo completado estos temas cerramos la parte del curso dedicada a las fuerzas microevolutivas y podemos movernos hacia estudiar el concepto de adaptación como el puente en microevolución y macroevolución. [Presentación](https://github.com/cdanielcadena/evolucion/blob/master/abril14-16_git.pdf)
 
-### Semana Abril 20-22
+### Semana Abril 21-23
 
-Dedicamos la semana al estudio del concepto de adaptación, enfatizando la definición rigurosa de este término y el uso de un marco hipotético-deductivo para la aplicación del concepto. Los estudiantes tuvieron como tarea investigar sobre adaptación de algún parásito o patógeno a humanos y evaluar la evidencia a la luz de la metodología discutida para la puesta a prueba de hipótesis adaptativas. [Presentación](https://github.com/cdanielcadena/evolucion/blob/master/abril14-16_git.pdf)
+Dedicamos la semana al estudio del concepto de adaptación, enfatizando la definición rigurosa de este término y el uso de un marco hipotético-deductivo para la aplicación del concepto. Los estudiantes tuvieron como tarea investigar sobre adaptación de algún parásito o patógeno a humanos y evaluar la evidencia a la luz de la metodología discutida para la puesta a prueba de hipótesis adaptativas. [Presentación](https://github.com/cdanielcadena/evolucion/blob/master/abril21-23_git.pdf)
