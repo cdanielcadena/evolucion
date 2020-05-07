@@ -136,7 +136,7 @@ Dedicamos la semana al estudio del concepto de adaptación, enfatizando la defin
 
 ### Semana Abril 28-30
 
-Abordamos los temas de evolución de la reproducción sexual y la teoría de selección sexual. Al hablar sobre explicaciones para el origen del sexo y dada su conexión con el tema de interacciones entre organismos patógenos o parásitos y sus hospederos dedicamos un buen espacio a discutir la hipótesis de la reina roja propuesta por Van Valen. Describimos además las ideas principales sobre selección sexual desde Darwin y Wallace hasta el presente.
+Abordamos los temas de evolución de la reproducción sexual y la teoría de selección sexual. Al hablar sobre explicaciones para el origen del sexo y dada su conexión con el tema de interacciones entre organismos patógenos o parásitos y sus hospederos dedicamos un buen espacio a discutir la hipótesis de la reina roja propuesta por Van Valen. Describimos además las ideas principales sobre selección sexual desde Darwin y Wallace hasta el presente. [Presentación](https://github.com/cdanielcadena/evolucion/blob/master/abril28-30_git.pdf)
 
 ### Semana Mayo 5-7
 
