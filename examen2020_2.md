@@ -42,13 +42,17 @@ Los datos de secuenciación de influenza H5N1 revelan que:
 
 **Artículo SARS-Cov2**
 
--
--
--
+Sobre la epidemia de Covid-19 en Colombia se puede afirmar que:
 
--
--
--
+- Hubo múltiples introducciones, la mayoría asintomáticas y proveniente de países suramericanos.
+- Hubo múltiples introducciones, la mayoría sintomáticas y proveniente de países europeos.
+- Con los datos del estudio es imposible estimar con precisión cuántas introducciones hubo, pero sin duda fueron muy pocas.
+
+Respecto a la diversidad genómica de Sars-CoV-2 en Colombia se puede afirmar que:
+
+- En Colombia sólo se encuentran los tres sublinajes responsables de las primeras etapas de la cadena de transmisión.
+- La alta frecuencia del linaje B.1 en Colombia es evidencia de adaptación por efecto de selección natural.
+- La frecuencia de distintos sublinajes en Colombia es consistente con un efecto fundador y por ende es en parte atribuible a deriva génica.
 
 Cumplidos los 15 minutos entregaremos instrucciones finales en esta misma página - vuélvanla a cargar en su navegador para ver la nueva versión.
 
