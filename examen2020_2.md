@@ -61,3 +61,5 @@ Finalmente, entren a SicuaPlus y allí encontrarán una evaluación en donde deb
 2. Para el caso de influenza H5N1, ¿qué tipo de evidencia apoya la hipótesis de que el virus habría evolucionado mediante selección natural adaptándose a los humanos después de su cambio de hospedero? 
 
 3. Para el caso de SARS-Cov2, ¿en retrospectiva cuál cree usted que habría sido la mejor estrategia a aplicar en febrero o marzo para limitar el avance de la epidemia de covid-19 en Colombia?
+
+**Las respuestas deberán ser enviadas a más tardar a las 11:00 am**
