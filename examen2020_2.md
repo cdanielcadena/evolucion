@@ -54,3 +54,15 @@ Respecto a la diversidad genómica de Sars-CoV-2 en Colombia se puede afirmar qu
 - La alta frecuencia del linaje B.1 en Colombia es evidencia de adaptación por efecto de selección natural.
 - La frecuencia de distintos sublinajes en Colombia es consistente con un efecto fundador y por ende es en parte atribuible a deriva génica.
 
+---
+
+Finalmente, entren a SicuaPlus y allí encontrarán una evaluación en donde deberán contestar *individualmente* (ya no es permitido discutir en grupo pero pueden seguir mirando el artículo y sus apuntes si quieren) la pregunta que aplique al caso que ustedes escogieron para analizar. Tengan en cuenta que deberán no sólo referirse adecuadamente al contenido del artículo, **sino especialmente usar de manera correcta los conceptos de evolución tratados durante el curso al explicar su respuesta**. Las preguntas son las siguientes:
+
+1. Para el caso de Zika en Colombia, ¿por qué se podría concluir que para disminuir la transmisión de la enfermedad habría sido más efectivo tomar medidas de detección y control en el país que cerrar fronteras para impedir la llegada de personas contaminadas desde el exterior?
+
+2. Para el caso de influenza H5N1, ¿qué tipo de evidencia apoya la hipótesis de que el virus habría evolucionado mediante selección natural adaptándose a los humanos después de su cambio de hospedero? 
+
+3. Para el caso de SARS-CoV-2, ¿en retrospectiva cuál cree usted que habría sido la mejor estrategia a aplicar en febrero o marzo para limitar el avance de la epidemia de covid-19 en Colombia?
+
+**Las respuestas deberán ser enviadas a más tardar a las 11:00 am. Si les queda tiempo, por favor cuéntenme en el chat de Zoom qué les pareció este tipo de ejercicio vs. un examen convencional.**
+
