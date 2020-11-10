@@ -42,6 +42,13 @@ Los datos de secuenciación de influenza H5N1 revelan que:
 
 **Artículo SARS-Cov2**
 
+-
+-
+-
+
+-
+-
+-
 
 Cumplidos los 15 minutos entregaremos instrucciones finales en esta misma página - vuélvanla a cargar en su navegador para ver la nueva versión.
 
