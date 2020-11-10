@@ -56,7 +56,7 @@ Respecto a la diversidad genómica de Sars-CoV-2 en Colombia se puede afirmar qu
 
 ---
 
-Finalmente, entren a SicuaPlus y allí encontrarán una evaluación en donde deberán contestar la pregunta que aplique al caso que ustedes escogieron para analizar. Tengan en cuenta que deberán no sólo referirse adecuadamente al contenido del artículo, **sino especialmente usar de manera correcta los conceptos de evolución tratados durante el curso al explicar su respuesta**. Las preguntas son las siguientes:
+Finalmente, entren a SicuaPlus y allí encontrarán una evaluación en donde deberán contestar *individualmente* (ya no es permitido discutir en grupo) la pregunta que aplique al caso que ustedes escogieron para analizar. Tengan en cuenta que deberán no sólo referirse adecuadamente al contenido del artículo, **sino especialmente usar de manera correcta los conceptos de evolución tratados durante el curso al explicar su respuesta**. Las preguntas son las siguientes:
 
 1. Para el caso de Zika en Colombia, ¿por qué se podría concluir que para disminuir la transmisión de la enfermedad habría sido más efectivo tomar medidas de detección y control en el país que cerrar fronteras para impedir la llegada de personas contaminadas desde el exterior?
 
