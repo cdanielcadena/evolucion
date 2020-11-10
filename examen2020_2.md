@@ -10,9 +10,9 @@ Tienen 15 minutos para que den una mirada rápida al artículo que escogieron. D
 
 ---
 
-Ahora tienen 15 minutos más para discutir en grupos sobre lo que leyeron y pudieron interpretar del artículo escogido. Para esto, tendremos tres salas de Zoom habilitadas, cada una correspondiente a uno de los artículos. Pueden hablar entre ustedes, chatear, lo que quieran. Al discutir, piensen especialmente en cómo los conceptos centrales sobre evolución que ustedes han estudiado pueden ser aplicables a las situaciones descritas en el caso de cada una de las enfermedades infecciosas. Además, pueden usar las siguientes preguntas de selección múltiple como guía para su discusión
+Ahora tienen 15 minutos más para discutir en grupos sobre lo que leyeron y pudieron interpretar del artículo escogido. Para esto, tendremos tres salas de Zoom habilitadas, cada una correspondiente a uno de los artículos. Pueden hablar entre ustedes, chatear, lo que quieran. Al discutir, piensen especialmente en cómo los conceptos centrales sobre evolución que ustedes han estudiado pueden ser aplicables a las situaciones descritas en el caso de cada una de las enfermedades infecciosas. Además, pueden usar las siguientes preguntas de selección múltiple como guía para su discusión.
 
-#Artículo Zika
+# Artículo Zika
 
 *No* es correcto afirmar que:
 
@@ -26,7 +26,7 @@ Ahora tienen 15 minutos más para discutir en grupos sobre lo que leyeron y pudi
 - La mayoría de las infecciones de Zika en Colombia se atribuyeron a transmisión entre personas en el país y no a pacientes infectados que llegaron del exterior.
 - A diferencia de casos de otros virus, el reloj molecular indica que el Zika no habría estado circulando en Colombia por un período prolongado antes de ser detectado.
 
-#Artículo Influenza H5N1
+# Artículo Influenza H5N1
 
 Los patrones de evolución molecular sugieren que:
 
@@ -40,7 +40,7 @@ Los datos de secuenciación de influenza H5N1 revelan que:
 - Los virus H5N1 que infectan humanos son un grupo monofilético hermano de un clado que infecta patos.
 - La deriva genética no ha sido obstáculo para que las mutaciones beneficiosas para el virus se fijen, lo que no concuerda con la teoría casi neutral de evolución molecular.
 
-#Artículo SARS-Cov2
+# Artículo SARS-Cov2
 
 
 Cumplidos los 15 minutos entregaremos instrucciones finales en esta misma página - vuélvanla a cargar en su navegador para ver la nueva versión.
