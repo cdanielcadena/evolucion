@@ -10,7 +10,7 @@ Tienen 15 minutos para que den una mirada rápida al artículo que escogieron. D
 
 ---
 
-Ahora tienen 15 minutos más para discutir en grupos sobre lo que leyeron y pudieron interpretar del artículo escogido. Para esto, tendremos tres salas de Zoom habilitadas, cada una correspondiente a uno de los artículos. Pueden hablar entre ustedes, chatear, lo que quieran. Al discutir, piensen especialmente en cómo los conceptos centrales sobre evolución que ustedes han estudiado pueden ser aplicables a las situaciones descritas en el caso de cada una de las enfermedades infecciosas. Además, pueden usar las siguientes preguntas de selección múltiple como guía para su discusión.
+Ahora tienen 15 minutos más para discutir en grupos sobre lo que leyeron y pudieron interpretar del artículo escogido. Para esto, tendremos tres salas de Zoom habilitadas, cada una correspondiente a uno de los artículos. Pueden hablar entre ustedes, chatear, lo que quieran. Al discutir, piensen especialmente en cómo los conceptos centrales sobre evolución que ustedes han estudiado pueden ser aplicables a las situaciones descritas en el caso de cada una de las enfermedades infecciosas. Además, pueden usar las siguientes preguntas de selección múltiple como guía para su discusión. Cumplidos los 15 minutos entregaremos instrucciones finales en esta misma página - vuélvanla a cargar en su navegador para ver la nueva versión.
 
 **Artículo Zika**
 
@@ -53,8 +53,6 @@ Respecto a la diversidad genómica de Sars-CoV-2 en Colombia se puede afirmar qu
 - En Colombia sólo se encuentran los tres sublinajes responsables de las primeras etapas de la cadena de transmisión.
 - La alta frecuencia del linaje B.1 en Colombia es evidencia de adaptación por efecto de selección natural.
 - La frecuencia de distintos sublinajes en Colombia es consistente con un efecto fundador y por ende es en parte atribuible a deriva génica.
-
-Cumplidos los 15 minutos entregaremos instrucciones finales en esta misma página - vuélvanla a cargar en su navegador para ver la nueva versión.
 
 ---
 
