@@ -1,6 +1,6 @@
 ## Segundo Examen Parcial, Noviembre 10 de 2020
 
-Más que un examen convencional, hoy tendremos un día de aprendizaje activo en el que los estudiantes aplicarán las bases teóricas sobre evolución de las últimas semanas al estudio de epidemias. Los estudiantes inicialmente revisarán un artículo científico que ilustra el uso de teoría evolutiva para comprender enfermedades emergentes y luego contestarán preguntas al respecto.
+Más que un examen convencional, hoy tendremos un día de aprendizaje activo en el que los estudiantes aplicarán las bases teóricas sobre evolución que hemos desarrollado en las últimas semanas al estudio de epidemias. Los estudiantes inicialmente revisarán un artículo científico que ilustra el uso de teoría evolutiva para comprender enfermedades emergentes y luego contestarán preguntas al respecto.
 
 Esta página se irá actualizando durante el tiempo del examen dando instrucciones para los diferentes pasos a seguir.
 
